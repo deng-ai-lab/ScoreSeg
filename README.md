@@ -79,9 +79,9 @@ For convenience, we provide several pretrained segmentation modules weights here
 
 |    Dataset    |   Ratio  |   OA  |  mF1  |  mIoU |   Url  |
 |:-------------:|:--------:|:-----:|:-----:|------:|-------:|
-|    Potsdam    |    1%    | 74.62 | 69.84 | 55.60 | [link](https://drive.google.com/drive/u/0/folders/10XiIbafE4Hx0IfCiPw0mi0JwrwRjRr-3) |
-|    Vaihingen  |    10%   | 83.75 | 67.39 | 56.33 | [link](https://drive.google.com/drive/u/0/folders/1beAKwcV8GnLpCmZFaoQJVDxRU3VHnix3) |
-|    Deepglobe  |    5%    | 78.66 | 66.68 | 53.68 | [link](https://drive.google.com/drive/u/0/folders/1i6rQc-NHeSY2E3NnqpUtHlsN8UunDmA1) |
+|    Potsdam    |    1%    | 74.62 | 69.84 | 55.60 | [link](https://drive.google.com/drive/folders/10XiIbafE4Hx0IfCiPw0mi0JwrwRjRr-3?usp=sharing) |
+|    Vaihingen  |    10%   | 83.75 | 67.39 | 56.33 | [link](https://drive.google.com/drive/folders/1beAKwcV8GnLpCmZFaoQJVDxRU3VHnix3?usp=sharing) |
+|    Deepglobe  |    5%    | 78.66 | 66.68 | 53.68 | [link](https://drive.google.com/drive/folders/1i6rQc-NHeSY2E3NnqpUtHlsN8UunDmA1?usp=sharing) |
 
 *Note:*
 1. These models are all trained with the score-based models weights in [ddpm-cd](https://github.com/wgcban/ddpm-cd).
