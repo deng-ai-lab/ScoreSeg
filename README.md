@@ -1,6 +1,8 @@
 # ScoreSeg
 
-Official implementation of ScoreSeg: Leveraging Score-based Generative model for Self-Supervised Semantic Segmentation of Remote Sensing
+🎉 Our paper "ScoreSeg: Leveraging Score-based Generative Model for Self-Supervised Semantic Segmentation of Remote Sensing" has been accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. Check out the paper on [IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10250931).
+
+Official implementation of ScoreSeg: Leveraging Score-based Generative model for Self-Supervised Semantic Segmentation of Remote Sensing.
 
 ## Environment
 - This repository is built and tested in RTX 3090Ti GPUs, CUDA==11.4.
@@ -93,3 +95,13 @@ The code of score-based models is from [ddpm-cd](https://github.com/wgcban/ddpm-
 The implementation of deformable transformer and segmentation losses are from [Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) and [GeoSeg](https://github.com/WangLibo1995/GeoSeg) respectively.
 
 ## Citation
+If you find this work useful for your research, please consider citing:
+
+```bibtex
+@article{lu2023scoreseg,
+  title={ScoreSeg: Leveraging Score-based Generative Model for Self-Supervised Semantic Segmentation of Remote Sensing},
+  author={Lu, Junzhe and He, Guangjun and Dou, Hongkun and Gao, Qing and Fang, Leyuan and Deng, Yue},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2023},
+  publisher={IEEE}
+}
